@@ -1,0 +1,471 @@
+<mxfile host="app.diagrams.net" modified="2023-12-22T23:12:28.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="BvNLGWDQKfbYZLl7p6ed" version="22.1.11" type="device">
+  <diagram name="Страница — 1" id="RS49dNnNCL8nSBtzjiMD">
+    <mxGraphModel dx="1971" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2d2gX2o17IQto_zA_pqH-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="840" height="361" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="239" y="200" width="361" height="361" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="520" width="111" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="520" width="130" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2d2gX2o17IQto_zA_pqH-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579.88" y="380.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="519.88" y="380.5" />
+              <mxPoint x="519.88" y="380.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Документ про&lt;br&gt;&amp;nbsp;реєстрацію&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-8">
+          <mxGeometry x="-0.1667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-6" value="Реєстрація нового клієнту банка" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="379.88" y="340.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.88" y="500.5" as="sourcePoint" />
+            <mxPoint x="399.88" y="350.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Консультант банку&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-10">
+          <mxGeometry x="-0.0917" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=4;entryX=-0.033;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379.8800000000002" y="380.23" as="targetPoint" />
+            <mxPoint x="261.77" y="380.23" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Документи клієнта&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-11">
+          <mxGeometry x="0.045" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.88" y="260.5" as="sourcePoint" />
+            <mxPoint x="409.88" y="210.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Нормативно правові акти&lt;br&gt;Національного банку України&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-12">
+          <mxGeometry x="-0.1667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-23" value="Node:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="239" y="520" width="41" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-24" value="Title:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-25" value="Number:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="520" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-26" value="&lt;b&gt;A-0&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="525.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-27" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Реєстрація нового клієнту банка&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="525.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="547" width="40" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="520" width="280" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="520" width="280" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="520" width="280" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-43" value="Node:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="520" width="41" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-44" value="Title:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-45" value="Number:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="520" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-46" value="&lt;b&gt;A-1&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="525.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-47" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Реєстрація нового клієнту банка&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="525.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="547" width="40" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2d2gX2o17IQto_zA_pqH-52" target="2d2gX2o17IQto_zA_pqH-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-52" value="Обробка персональних даних" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="940" y="340.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2d2gX2o17IQto_zA_pqH-53" target="2d2gX2o17IQto_zA_pqH-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-53" value="Внесення даних клієнта до клієнтної бази" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="340.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2d2gX2o17IQto_zA_pqH-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="380.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-72" value="Документ&lt;br&gt;про реєстрацію" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-58">
+          <mxGeometry x="0.0938" y="-1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-54" value="Оформлення банківських документів для клієнта" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="340.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="380.5" as="sourcePoint" />
+            <mxPoint x="1080" y="380.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="380.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-71" value="Документи&lt;br&gt;клієнта" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-57">
+          <mxGeometry x="0.1476" y="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="500.5" as="sourcePoint" />
+            <mxPoint x="1060" y="410.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="460.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-60" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Консультант банку&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-59">
+          <mxGeometry x="-0.204" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="500.5" as="sourcePoint" />
+            <mxPoint x="1230" y="380.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-62" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Консультант банку&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-61">
+          <mxGeometry x="-0.0257" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="500.5" as="sourcePoint" />
+            <mxPoint x="1470" y="500.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-64" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Працівник бухгалтерії&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-63">
+          <mxGeometry x="0.0695" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.482;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="979" y="260.5" as="sourcePoint" />
+            <mxPoint x="989" y="260.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-66" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Нормативні акти&lt;br&gt;Національного банку України&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-65">
+          <mxGeometry x="-0.0765" y="1" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1279" y="260.5" as="sourcePoint" />
+            <mxPoint x="1189" y="260.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1279" y="300.5" />
+              <mxPoint x="1180" y="300.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-68" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Інформаційні системи&lt;br&gt;банку&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-67">
+          <mxGeometry x="-0.3329" y="-2" relative="1" as="geometry">
+            <mxPoint x="19" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1279" y="260.5" as="sourcePoint" />
+            <mxPoint x="1190" y="350.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1279" y="300.5" />
+              <mxPoint x="1379" y="300.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-70" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Інформаційні системи&lt;br&gt;банку&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-69">
+          <mxGeometry x="-0.3329" y="-2" relative="1" as="geometry">
+            <mxPoint x="-20" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="640" width="1000" height="361" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="960" width="320" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="960" width="330" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="889" y="960" width="350" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-77" value="Node:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="239" y="960" width="41" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-78" value="Title:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="960" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-79" value="Number:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="889" y="960" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-80" value="&lt;b&gt;A-2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369" y="965.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-81" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Реєстрація нового клієнту банка&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="684" y="965.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="987" width="40" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2d2gX2o17IQto_zA_pqH-84" target="2d2gX2o17IQto_zA_pqH-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-84" value="Формузвання запиту до бухгалтерії&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="384" y="790.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2d2gX2o17IQto_zA_pqH-86" target="2d2gX2o17IQto_zA_pqH-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-86" value="Збирання необхідних даних з клієнтської бази" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="504" y="790.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-89" value="Перевірка даних клієнта на справжність" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="624" y="790.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-90" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264" y="830.5" as="sourcePoint" />
+            <mxPoint x="524" y="830.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="344" y="830.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-115" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Клієнтська база&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-90">
+          <mxGeometry x="-0.0444" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="920.5" as="sourcePoint" />
+            <mxPoint x="504" y="790.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-117" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Консультант банку&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-92">
+          <mxGeometry x="-0.4844" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-98" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="720.5" as="sourcePoint" />
+            <mxPoint x="433" y="710.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544" y="720.5" as="sourcePoint" />
+            <mxPoint x="553" y="710.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="544" y="750.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="730.5" as="sourcePoint" />
+            <mxPoint x="474" y="800.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="664" y="720.5" />
+              <mxPoint x="664" y="730.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="704" y="830.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="724" y="830.5" />
+              <mxPoint x="724" y="830.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-105" value="Формування документу про реєстрацію клієнта&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="744" y="790.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-106" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="920.5" as="sourcePoint" />
+            <mxPoint x="874" y="1000.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="664" y="920.5" />
+              <mxPoint x="784" y="920.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-124" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Працівник бухгалтерії&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-106">
+          <mxGeometry x="-0.491" y="-2" relative="1" as="geometry">
+            <mxPoint x="-43" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-107" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="784" y="720.5" as="sourcePoint" />
+            <mxPoint x="594" y="800.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="784" y="730.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="824" y="860.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="824" y="830.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2d2gX2o17IQto_zA_pqH-109" target="2d2gX2o17IQto_zA_pqH-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-109" value="Валідація документу про реєстрацію клієнта&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="864" y="790.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="904" y="720.5" as="sourcePoint" />
+            <mxPoint x="714" y="890.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1184" y="830.5600000000001" as="targetPoint" />
+            <mxPoint x="1064" y="830.18" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1124" y="830.16" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-113" value="Документ&lt;br&gt;про реєстрацію" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-112">
+          <mxGeometry x="0.0938" y="-1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-119" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="920.5" as="sourcePoint" />
+            <mxPoint x="584" y="940.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="544" y="920.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-130" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Працівник бухгалтерії&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-119">
+          <mxGeometry x="-0.251" y="1" relative="1" as="geometry">
+            <mxPoint x="64" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-121" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="904" y="920.5" as="sourcePoint" />
+            <mxPoint x="894" y="1000.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-122" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Юрідичний відділ банку&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-121">
+          <mxGeometry x="-0.5935" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-123" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=11;jumpStyle=line;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="904" y="900.5" as="sourcePoint" />
+            <mxPoint x="694" y="1070.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="894" y="900.5" />
+              <mxPoint x="874" y="900.5" />
+              <mxPoint x="824" y="900.5" />
+              <mxPoint x="664" y="900.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-125" value="Підписання та штампування документа" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="984" y="790.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-128" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1024" y="920.5" as="sourcePoint" />
+            <mxPoint x="1124" y="1000.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-129" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Директор по операціям&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-128">
+          <mxGeometry x="-0.6605" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-132" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2d2gX2o17IQto_zA_pqH-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1024" y="720.5" as="sourcePoint" />
+            <mxPoint x="1024" y="720.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-133" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="720.5" as="sourcePoint" />
+            <mxPoint x="1024" y="720.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2d2gX2o17IQto_zA_pqH-134" value="Нормативні акти&lt;br&gt;Національного банку України" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2d2gX2o17IQto_zA_pqH-133">
+          <mxGeometry x="0.0382" y="-3" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
